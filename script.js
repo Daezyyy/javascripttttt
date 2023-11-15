@@ -26,3 +26,5 @@ const scrapeData = async (url) => {
     const data = await scrapeData('your_website_url');
     console.log(data);
 })();
+const list = ["nama":"dillon"]
+console.log(list)

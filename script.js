@@ -26,7 +26,5 @@ const scrapeData = async (url) => {
     const data = await scrapeData('your_website_url');
     console.log(data);
 })();
-let go = (1,2,3)
-go.push[1]
 const list = ["nama":"dillon"]
 console.log(list)
